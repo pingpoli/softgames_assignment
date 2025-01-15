@@ -1,0 +1,7 @@
+
+known bugs:
+- does full screen mean full full screen? I thought it meant cover the whole browser window, if it is meant to be fullscreen press F11 ;) you can trigger fullscreen with a button too ( see source code of https://pingpoli.de/matrix.html )
+- resizing the window in task 1 while the cards are flying isn't really working well, the cards would fly unpredictably anyway
+
+
+Task 1:
